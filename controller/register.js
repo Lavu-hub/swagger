@@ -110,6 +110,7 @@ const registerStudent=async(req,res)=>{
                     </a>
                   </td>
                 </tr>
+                
 
                 <tr>
                   <td style="padding-top:18px; color:#6b7a90; font-size:13px;">

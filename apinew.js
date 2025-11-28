@@ -7,10 +7,10 @@ const port=3000;
 app.use(cors());
 app.use(express.json());
 app.set('view engine', 'ejs');
-//const indexRouter=require('./routes/index1')
+const indexRouter=require('./routes/index1')
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
-//app.use('/',indexRouter);
+app.use('/',indexRouter);
     
 
 
