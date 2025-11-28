@@ -1,0 +1,50 @@
+[
+  {
+    "name": "rohan",
+    "age": 30,
+    "city": "New York"
+  },
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 23,
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "age": 28,
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Simran",
+    "age": 25,
+    "city": "Chandigarh"
+  },
+  {
+    "id": 1,
+    "name": "Ananya",
+    "email": "ananya@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Rohan",
+    "email": "rohan@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "email": "priya@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Rohan ji",
+    "email": "rohanji@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Rohan ji 2",
+    "email": "rohanji@example.com"
+  }
+]
